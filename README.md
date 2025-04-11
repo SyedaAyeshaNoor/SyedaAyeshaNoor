@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**SyedaAyeshaNoor/SyedaAyeshaNoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there, I'm Syeda Ayesha Noor  
 
-Here are some ideas to get you started:
+🎓 MBA in Business Analytics | 💻 Aspiring Data Analyst | 📊 Passionate about Data-Driven Decisions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I’m currently looking for opportunities in Business Analytics, Data Analysis, and Marketing Analytics.  
+
+📚 I’m currently learning SQL, Tableau, Power BI, and Python for data analysis.  
+
+🤝 I’m looking to collaborate on data storytelling, dashboard design, and analytics projects.  
+
+🧠 Ask me about business use cases, SQL queries, or analytics career prep.  
+
+📬 How to reach me: LinkedIn | Email: syeda.noor@example.com  
+
+🎯 Fun fact: I love turning raw data into actionable insights that solve real-world problems!  
+
