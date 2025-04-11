@@ -12,7 +12,7 @@
 
 🧠 Ask me about business use cases, SQL queries, or analytics career prep.  
 
-📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/syedaayeshanoor) | Email: syeda.noor@example.com  
+📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/syeda-ayesha-noor-126bb7184/) | Email: syeda.noor@example.com  
 
 🎯 Fun fact: I love turning raw data into actionable insights that solve real-world problems!  
 
